@@ -1,0 +1,141 @@
+.top_bar_button{
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    border-color:  red;  
+
+}
+.third_div{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    size: 12px;
+}
+.individual_button{
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-style: none;
+}
+.business_button{
+    border-radius: 15px;
+    color: red;
+    padding: 10px;
+    border-style: red;
+    background-color: white;
+}
+.business_button:hover{
+    background-color: green;
+}
+
+.african_map{
+    display: flex;
+    size: 12px;
+    width: 2px;
+}
+.style{
+    display: flex;
+}
+.what_we_do_div{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.what_we_do{
+    display: block;
+    
+}
+.what_we_do_div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.business{
+    color: white;
+    size: 20px;
+}
+.individual_div{
+    background-color: red;
+    border-radius: 5px;
+    padding : 10px;
+    
+}
+.business_div{
+    background-color: red;
+    border-radius: 5px;
+    padding : 10px;
+}
+.business_para {
+    color: white;
+}
+.individual_para{
+    color: white;
+}
+.how_we_do_it_div{
+    display: flex
+}
+.main_emum{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
+.enum_logo{
+    /* display: flex; */
+}
+.about_enum_div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.one_place{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
+.enum_button{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    border-style: none;
+    padding: 10px;
+    display: flex;
+}
+.brands_main_div{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
+.brands_second_div{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
+.brands_third_div{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
+.town_crier_div{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    background-color: black;
+    /* gap: 20px;
+    size: 12px; */
+}
+.last_div{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
+.social_media_div{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 20px;
+    size: 12px; */
+}
